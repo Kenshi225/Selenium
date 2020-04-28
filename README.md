@@ -1,11 +1,11 @@
 # Selenium
 
 このプログラムを実行するには下記が必要です。
-1.Pythonのインストール -> https://www.python.org/downloads/
-2.seleniumのインストール -> pythonインストール後コマンドプロントで(pip install selenium)を実行
-3.webdriverのインストール -> https://chromedriver.chromium.org/downloads
-4.ログイン情報(17-19行目)
-5.時刻の編集(40,41,45,46行目)
+- Pythonのインストール -> https://www.python.org/downloads/
+- seleniumのインストール -> pythonインストール後コマンドプロントで(pip install selenium)を実行
+- webdriverのインストール -> https://chromedriver.chromium.org/downloads
+- ログイン情報(17-19行目)
+- 時刻の編集(40,41,45,46行目)
 
 ダウンロードしたwebdriverのPathを指定、8,9行目を適宜書き直してください。
 ```

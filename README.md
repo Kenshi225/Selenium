@@ -5,6 +5,7 @@
 https://chromedriver.chromium.org/downloads
 
 driver = webdriver.Chrome()
+
 driver.get('https://www.google.com/')
 
 ↓

@@ -3,7 +3,7 @@
 このプログラムを実行するには下記が必要です。
 - Pythonのインストール -> https://www.python.org/downloads/
 - seleniumのインストール -> pythonインストール後コマンドプロントで(pip install selenium)を実行
-- webdriverのインストール -> https://chromedriver.chromium.org/downloads
+- webdriverのダウンロード -> https://chromedriver.chromium.org/downloads
 - ログイン情報(17-19行目)
 - 時刻の編集(40,41,45,46行目)
 
